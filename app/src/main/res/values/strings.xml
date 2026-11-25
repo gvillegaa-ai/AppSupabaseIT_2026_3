@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">AppSupabaseIT_2026_3</string>
+    <string-array name="niveles">
+        <item>Primer nivel</item>
+        <item>Segundo nivel</item>
+        <item>Tercer nivel</item>
+        <item>Cuarto nivel</item>
+        <item>Quinto nivel</item>
+        <item>Sexto nivel</item>
+        <item>Séptimo nivel</item>
+        <item>Octavo nivel</item>
+        <item>Noveno nivel</item>
+        <item>Decimo nivel</item>
+    </string-array>
 </resources>
